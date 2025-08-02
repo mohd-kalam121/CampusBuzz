@@ -31,4 +31,4 @@ A one-stop event aggregator web app built for Delhi Technological University (DT
 ---
 
 ## 🤝 Contributions
-Made by [Mohd Kalam](https://github.com/your-username) from DTU.
+Made by [Mohd Kalam](https://github.com/mohd-kalam121) from DTU.
